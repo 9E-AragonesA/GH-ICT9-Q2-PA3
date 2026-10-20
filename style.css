@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://i.pinimg.com/1200x/7e/bc/13/7ebc1303c4f7b6144a37e1cd669349bc.jpg);
+}
+
+img{
+    width: 15%;
+}
+
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
